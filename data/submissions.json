@@ -1,0 +1,550 @@
+[
+  {
+    "id": 1758315760868,
+    "created_at": "2025-09-19T21:02:40.868Z",
+    "content": "The Water Cycle\nThe water cycle is the continuous movement of water on, above, and below the surface of the Earth. Solar energy drives the cycle by heating water in the oceans, which evaporates into water vapor. This water vapor rises into the atmosphere, where it cools and condenses around particles to form clouds. When the water droplets in clouds become too heavy, they fall to Earth as precipitation in the form of rain, snow, sleet, or hail. The fallen water then flows over the ground as surface runoff, eventually returning to the oceans, or it seeps into the ground to become groundwater. Some groundwater is stored in aquifers, while some flows back to the surface through springs or is drawn up by plants and returned to the atmosphere through transpiration. The water cycle is essential for all life on Earth, as it distributes fresh water around the planet and helps regulate temperature and climate patterns.",
+    "simplified": "<h3>The Water Cycle</h3><p>The Water Cycle The water cycle is the continuous movement of water on, above, and below the surface of the Earth.</p><p>Some groundwater is stored in aquifers, while some flows back to the surface through springs or is drawn up by plants and returned to the atmosphere through transpiration.</p><p>The water cycle is essential for all life on Earth, as it distributes fresh water around the planet and helps regulate temperature and climate patterns.</p><p>The fallen water then flows over the ground as surface runoff, eventually returning to the oceans, or it seeps into the ground to become groundwater.</p><p>When the water droplets in clouds become too heavy, they fall to Earth as precipitation in the form of rain, snow, sleet, or hail.</p><p>This water vapor rises into the atmosphere, where it cools and condenses around particles to form clouds.</p><p><strong>Summary:</strong> This is a simplified version to help learning. Try the practice questions below!</p>",
+    "questions": [
+      {
+        "type": "mcq",
+        "question": "In the lesson above, which of the following best answers: \"The Water Cycle The water cycle is the continuous movement of water on, above,...\"?",
+        "options": [
+          "Continuous",
+          "Cycle",
+          "Movement",
+          "Water"
+        ],
+        "correct": 3,
+        "hint": "Look around the part where \"water\" is mentioned in the lesson.",
+        "answer": "Water — (extracted from the lesson content)."
+      },
+      {
+        "type": "true_false",
+        "question": "It is not true that Solar energy drives the cycle by heating water in the oceans, which evaporates into water vapor.",
+        "correct": false,
+        "hint": "Try to remember what the lesson said about this part.",
+        "answer": "False — this was changed slightly from the lesson."
+      },
+      {
+        "type": "short_answer",
+        "question": "Briefly explain or name: \"This water vapor rises into the atmosphere, where it cools and conden...\"",
+        "hint": "A short answer referring to \"earth\" would help.",
+        "answer": "One good short answer: Earth (from the lesson)."
+      },
+      {
+        "type": "mcq",
+        "question": "In the lesson above, which of the following best answers: \"When the water droplets in clouds become too heavy, they fall to Earth as preci...\"?",
+        "options": [
+          "Continuous",
+          "Earth",
+          "Water",
+          "Cycle"
+        ],
+        "correct": 1,
+        "hint": "Look around the part where \"earth\" is mentioned in the lesson.",
+        "answer": "Earth — (extracted from the lesson content)."
+      },
+      {
+        "type": "true_false",
+        "question": "It is not true that The fallen water then flows over the ground as surface runoff, eventually returning to the oceans, or it seeps into the...",
+        "correct": false,
+        "hint": "Try to remember what the lesson said about this part.",
+        "answer": "False — this was changed slightly from the lesson."
+      }
+    ]
+  },
+  {
+    "id": 1758315782692,
+    "created_at": "2025-09-19T21:03:02.692Z",
+    "content": "The Water Cycle\nThe water cycle is the continuous movement of water on, above, and below the surface of the Earth. Solar energy drives the cycle by heating water in the oceans, which evaporates into water vapor. This water vapor rises into the atmosphere, where it cools and condenses around particles to form clouds. When the water droplets in clouds become too heavy, they fall to Earth as precipitation in the form of rain, snow, sleet, or hail. The fallen water then flows over the ground as surface runoff, eventually returning to the oceans, or it seeps into the ground to become groundwater. Some groundwater is stored in aquifers, while some flows back to the surface through springs or is drawn up by plants and returned to the atmosphere through transpiration. The water cycle is essential for all life on Earth, as it distributes fresh water around the planet and helps regulate temperature and climate patterns.",
+    "simplified": "<h3>The Water Cycle</h3><p>The Water Cycle The water cycle is the continuous movement of water on, above, and below the surface of the Earth.</p><p>Some groundwater is stored in aquifers, while some flows back to the surface through springs or is drawn up by plants and returned to the atmosphere through transpiration.</p><p>The water cycle is essential for all life on Earth, as it distributes fresh water around the planet and helps regulate temperature and climate patterns.</p><p>The fallen water then flows over the ground as surface runoff, eventually returning to the oceans, or it seeps into the ground to become groundwater.</p><p>When the water droplets in clouds become too heavy, they fall to Earth as precipitation in the form of rain, snow, sleet, or hail.</p><p>This water vapor rises into the atmosphere, where it cools and condenses around particles to form clouds.</p><p><strong>Summary:</strong> This is a simplified version to help learning. Try the practice questions below!</p>",
+    "questions": [
+      {
+        "type": "mcq",
+        "question": "In the lesson above, which of the following best answers: \"The Water Cycle The water cycle is the continuous movement of water on, above,...\"?",
+        "options": [
+          "Cycle",
+          "Continuous",
+          "Movement",
+          "Water"
+        ],
+        "correct": 3,
+        "hint": "Look around the part where \"water\" is mentioned in the lesson.",
+        "answer": "Water — (extracted from the lesson content)."
+      },
+      {
+        "type": "true_false",
+        "question": "Solar energy drives the cycle by heating water in the oceans, which evaporates into water vapor.",
+        "correct": true,
+        "hint": "Try to remember what the lesson said about this part.",
+        "answer": "True — this matches the lesson."
+      },
+      {
+        "type": "short_answer",
+        "question": "Briefly explain or name: \"This water vapor rises into the atmosphere, where it cools and conden...\"",
+        "hint": "A short answer referring to \"earth\" would help.",
+        "answer": "One good short answer: Earth (from the lesson)."
+      },
+      {
+        "type": "mcq",
+        "question": "In the lesson above, which of the following best answers: \"When the water droplets in clouds become too heavy, they fall to Earth as preci...\"?",
+        "options": [
+          "Earth",
+          "Water",
+          "Continuous",
+          "Cycle"
+        ],
+        "correct": 0,
+        "hint": "Look around the part where \"earth\" is mentioned in the lesson.",
+        "answer": "Earth — (extracted from the lesson content)."
+      },
+      {
+        "type": "true_false",
+        "question": "The fallen water then flows over the ground as surface runoff, eventually returning to the oceans, or it seeps into the...",
+        "correct": true,
+        "hint": "Try to remember what the lesson said about this part.",
+        "answer": "True — this matches the lesson."
+      },
+      {
+        "type": "short_answer",
+        "question": "Briefly explain or name: \"Some groundwater is stored in aquifers, while some flows back to the...\"",
+        "hint": "A short answer referring to \"vapor\" would help.",
+        "answer": "One good short answer: Vapor (from the lesson)."
+      },
+      {
+        "type": "mcq",
+        "question": "In the lesson above, which of the following best answers: \"The water cycle is essential for all life on Earth, as it distributes fresh wat...\"?",
+        "options": [
+          "Continuous",
+          "Vapor",
+          "Cycle",
+          "Water"
+        ],
+        "correct": 1,
+        "hint": "Look around the part where \"vapor\" is mentioned in the lesson.",
+        "answer": "Vapor — (extracted from the lesson content)."
+      },
+      {
+        "type": "true_false",
+        "question": "The Water Cycle The water cycle is the continuous movement of water on, above, and below the surface of the Earth.",
+        "correct": true,
+        "hint": "Try to remember what the lesson said about this part.",
+        "answer": "True — this matches the lesson."
+      },
+      {
+        "type": "short_answer",
+        "question": "Briefly explain or name: \"Solar energy drives the cycle by heating water in the oceans, which e...\"",
+        "hint": "A short answer referring to \"form\" would help.",
+        "answer": "One good short answer: Form (from the lesson)."
+      },
+      {
+        "type": "mcq",
+        "question": "In the lesson above, which of the following best answers: \"This water vapor rises into the atmosphere, where it cools and condenses around...\"?",
+        "options": [
+          "Form",
+          "Cycle",
+          "Water",
+          "Continuous"
+        ],
+        "correct": 0,
+        "hint": "Look around the part where \"form\" is mentioned in the lesson.",
+        "answer": "Form — (extracted from the lesson content)."
+      }
+    ]
+  },
+  {
+    "id": 1758316889815,
+    "created_at": "2025-09-19T21:21:29.815Z",
+    "content": "The Water Cycle\nThe water cycle is the continuous movement of water on, above, and below the surface of the Earth. Solar energy drives the cycle by heating water in the oceans, which evaporates into water vapor. This water vapor rises into the atmosphere, where it cools and condenses around particles to form clouds. When the water droplets in clouds become too heavy, they fall to Earth as precipitation in the form of rain, snow, sleet, or hail. The fallen water then flows over the ground as surface runoff, eventually returning to the oceans, or it seeps into the ground to become groundwater. Some groundwater is stored in aquifers, while some flows back to the surface through springs or is drawn up by plants and returned to the atmosphere through transpiration. The water cycle is essential for all life on Earth, as it distributes fresh water around the planet and helps regulate temperature and climate patterns.",
+    "simplified": "<h3>The Water Cycle</h3><p>The Water Cycle The water cycle is the continuous movement of water on, above, and below the surface of the Earth.</p><p>Some groundwater is stored in aquifers, while some flows back to the surface through springs or is drawn up by plants and returned to the atmosphere through transpiration.</p><p>The water cycle is essential for all life on Earth, as it distributes fresh water around the planet and helps regulate temperature and climate patterns.</p><p>The fallen water then flows over the ground as surface runoff, eventually returning to the oceans, or it seeps into the ground to become groundwater.</p><p>When the water droplets in clouds become too heavy, they fall to Earth as precipitation in the form of rain, snow, sleet, or hail.</p><p>This water vapor rises into the atmosphere, where it cools and condenses around particles to form clouds.</p><p><strong>Summary:</strong> This is a simplified version to help learning. Try the practice questions below!</p>",
+    "questions": [
+      {
+        "type": "mcq",
+        "question": "In the lesson above, which of the following best answers: \"The Water Cycle The water cycle is the continuous movement of water on, above,...\"?",
+        "options": [
+          "Continuous",
+          "Water",
+          "Cycle",
+          "Movement"
+        ],
+        "correct": 1,
+        "hint": "Look around the part where \"water\" is mentioned in the lesson.",
+        "answer": "Water — (extracted from the lesson content)."
+      },
+      {
+        "type": "true_false",
+        "question": "It is not true that Solar energy drives the cycle by heating water in the oceans, which evaporates into water vapor.",
+        "correct": false,
+        "hint": "Try to remember what the lesson said about this part.",
+        "answer": "False — this was changed slightly from the lesson."
+      },
+      {
+        "type": "short_answer",
+        "question": "Briefly explain or name: \"This water vapor rises into the atmosphere, where it cools and conden...\"",
+        "hint": "A short answer referring to \"earth\" would help.",
+        "answer": "One good short answer: Earth (from the lesson)."
+      },
+      {
+        "type": "mcq",
+        "question": "In the lesson above, which of the following best answers: \"When the water droplets in clouds become too heavy, they fall to Earth as preci...\"?",
+        "options": [
+          "Cycle",
+          "Water",
+          "Continuous",
+          "Earth"
+        ],
+        "correct": 3,
+        "hint": "Look around the part where \"earth\" is mentioned in the lesson.",
+        "answer": "Earth — (extracted from the lesson content)."
+      },
+      {
+        "type": "true_false",
+        "question": "The fallen water then flows over the ground as surface runoff, eventually returning to the oceans, or it seeps into the...",
+        "correct": true,
+        "hint": "Try to remember what the lesson said about this part.",
+        "answer": "True — this matches the lesson."
+      }
+    ]
+  },
+  {
+    "id": 1758316897502,
+    "created_at": "2025-09-19T21:21:37.502Z",
+    "content": "The Water Cycle\nThe water cycle is the continuous movement of water on, above, and below the surface of the Earth. Solar energy drives the cycle by heating water in the oceans, which evaporates into water vapor. This water vapor rises into the atmosphere, where it cools and condenses around particles to form clouds. When the water droplets in clouds become too heavy, they fall to Earth as precipitation in the form of rain, snow, sleet, or hail. The fallen water then flows over the ground as surface runoff, eventually returning to the oceans, or it seeps into the ground to become groundwater. Some groundwater is stored in aquifers, while some flows back to the surface through springs or is drawn up by plants and returned to the atmosphere through transpiration. The water cycle is essential for all life on Earth, as it distributes fresh water around the planet and helps regulate temperature and climate patterns.",
+    "simplified": "<h3>The Water Cycle</h3><p>The Water Cycle The water cycle is the continuous movement of water on, above, and below the surface of the Earth.</p><p>Some groundwater is stored in aquifers, while some flows back to the surface through springs or is drawn up by plants and returned to the atmosphere through transpiration.</p><p>The water cycle is essential for all life on Earth, as it distributes fresh water around the planet and helps regulate temperature and climate patterns.</p><p>The fallen water then flows over the ground as surface runoff, eventually returning to the oceans, or it seeps into the ground to become groundwater.</p><p>When the water droplets in clouds become too heavy, they fall to Earth as precipitation in the form of rain, snow, sleet, or hail.</p><p>This water vapor rises into the atmosphere, where it cools and condenses around particles to form clouds.</p><p><strong>Summary:</strong> This is a simplified version to help learning. Try the practice questions below!</p>",
+    "questions": [
+      {
+        "type": "mcq",
+        "question": "In the lesson above, which of the following best answers: \"The Water Cycle The water cycle is the continuous movement of water on, above,...\"?",
+        "options": [
+          "Movement",
+          "Cycle",
+          "Water",
+          "Continuous"
+        ],
+        "correct": 2,
+        "hint": "Look around the part where \"water\" is mentioned in the lesson.",
+        "answer": "Water — (extracted from the lesson content)."
+      },
+      {
+        "type": "true_false",
+        "question": "It is not true that Solar energy drives the cycle by heating water in the oceans, which evaporates into water vapor.",
+        "correct": false,
+        "hint": "Try to remember what the lesson said about this part.",
+        "answer": "False — this was changed slightly from the lesson."
+      },
+      {
+        "type": "short_answer",
+        "question": "Briefly explain or name: \"This water vapor rises into the atmosphere, where it cools and conden...\"",
+        "hint": "A short answer referring to \"earth\" would help.",
+        "answer": "One good short answer: Earth (from the lesson)."
+      },
+      {
+        "type": "mcq",
+        "question": "In the lesson above, which of the following best answers: \"When the water droplets in clouds become too heavy, they fall to Earth as preci...\"?",
+        "options": [
+          "Continuous",
+          "Earth",
+          "Cycle",
+          "Water"
+        ],
+        "correct": 1,
+        "hint": "Look around the part where \"earth\" is mentioned in the lesson.",
+        "answer": "Earth — (extracted from the lesson content)."
+      },
+      {
+        "type": "true_false",
+        "question": "The fallen water then flows over the ground as surface runoff, eventually returning to the oceans, or it seeps into the...",
+        "correct": true,
+        "hint": "Try to remember what the lesson said about this part.",
+        "answer": "True — this matches the lesson."
+      }
+    ]
+  },
+  {
+    "id": 1758317072719,
+    "created_at": "2025-09-19T21:24:32.719Z",
+    "content": "The Water Cycle\nThe water cycle is the continuous movement of water on, above, and below the surface of the Earth. Solar energy drives the cycle by heating water in the oceans, which evaporates into water vapor. This water vapor rises into the atmosphere, where it cools and condenses around particles to form clouds. When the water droplets in clouds become too heavy, they fall to Earth as precipitation in the form of rain, snow, sleet, or hail. The fallen water then flows over the ground as surface runoff, eventually returning to the oceans, or it seeps into the ground to become groundwater. Some groundwater is stored in aquifers, while some flows back to the surface through springs or is drawn up by plants and returned to the atmosphere through transpiration. The water cycle is essential for all life on Earth, as it distributes fresh water around the planet and helps regulate temperature and climate patterns.",
+    "simplified": "<h3>The Water Cycle</h3><p>The Water Cycle The water cycle is the continuous movement of water on, above, and below the surface of the Earth.</p><p>Some groundwater is stored in aquifers, while some flows back to the surface through springs or is drawn up by plants and returned to the atmosphere through transpiration.</p><p>The water cycle is essential for all life on Earth, as it distributes fresh water around the planet and helps regulate temperature and climate patterns.</p><p>The fallen water then flows over the ground as surface runoff, eventually returning to the oceans, or it seeps into the ground to become groundwater.</p><p>When the water droplets in clouds become too heavy, they fall to Earth as precipitation in the form of rain, snow, sleet, or hail.</p><p>This water vapor rises into the atmosphere, where it cools and condenses around particles to form clouds.</p><p><strong>Summary:</strong> This is a simplified version to help learning. Try the practice questions below!</p>",
+    "questions": [
+      {
+        "type": "mcq",
+        "question": "In the lesson above, which of the following best answers: \"The Water Cycle The water cycle is the continuous movement of water on, above,...\"?",
+        "options": [
+          "Cycle",
+          "Water",
+          "Continuous",
+          "Movement"
+        ],
+        "correct": 1,
+        "hint": "Look around the part where \"water\" is mentioned in the lesson.",
+        "answer": "Water — (extracted from the lesson content)."
+      },
+      {
+        "type": "true_false",
+        "question": "Solar energy drives the cycle by heating water in the oceans, which evaporates into water vapor.",
+        "correct": true,
+        "hint": "Try to remember what the lesson said about this part.",
+        "answer": "True — this matches the lesson."
+      },
+      {
+        "type": "short_answer",
+        "question": "Briefly explain or name: \"This water vapor rises into the atmosphere, where it cools and conden...\"",
+        "hint": "A short answer referring to \"earth\" would help.",
+        "answer": "One good short answer: Earth (from the lesson)."
+      },
+      {
+        "type": "mcq",
+        "question": "In the lesson above, which of the following best answers: \"When the water droplets in clouds become too heavy, they fall to Earth as preci...\"?",
+        "options": [
+          "Continuous",
+          "Cycle",
+          "Water",
+          "Earth"
+        ],
+        "correct": 3,
+        "hint": "Look around the part where \"earth\" is mentioned in the lesson.",
+        "answer": "Earth — (extracted from the lesson content)."
+      },
+      {
+        "type": "true_false",
+        "question": "The fallen water then flows over the ground as surface runoff, eventually returning to the oceans, or it seeps into the...",
+        "correct": true,
+        "hint": "Try to remember what the lesson said about this part.",
+        "answer": "True — this matches the lesson."
+      }
+    ]
+  },
+  {
+    "id": 1758317438406,
+    "created_at": "2025-09-19T21:30:38.406Z",
+    "content": "The Water Cycle\nThe water cycle is the continuous movement of water on, above, and below the surface of the Earth. Solar energy drives the cycle by heating water in the oceans, which evaporates into water vapor. This water vapor rises into the atmosphere, where it cools and condenses around particles to form clouds. When the water droplets in clouds become too heavy, they fall to Earth as precipitation in the form of rain, snow, sleet, or hail. The fallen water then flows over the ground as surface runoff, eventually returning to the oceans, or it seeps into the ground to become groundwater. Some groundwater is stored in aquifers, while some flows back to the surface through springs or is drawn up by plants and returned to the atmosphere through transpiration. The water cycle is essential for all life on Earth, as it distributes fresh water around the planet and helps regulate temperature and climate patterns.",
+    "simplified": "<h3>The Water Cycle</h3><p>The Water Cycle The water cycle is the continuous movement of water on, above, and below the surface of the Earth.</p><p>Some groundwater is stored in aquifers, while some flows back to the surface through springs or is drawn up by plants and returned to the atmosphere through transpiration.</p><p>The water cycle is essential for all life on Earth, as it distributes fresh water around the planet and helps regulate temperature and climate patterns.</p><p>The fallen water then flows over the ground as surface runoff, eventually returning to the oceans, or it seeps into the ground to become groundwater.</p><p>When the water droplets in clouds become too heavy, they fall to Earth as precipitation in the form of rain, snow, sleet, or hail.</p><p>This water vapor rises into the atmosphere, where it cools and condenses around particles to form clouds.</p><p><strong>Summary:</strong> This is a simplified version to help learning. Try the practice questions below!</p>",
+    "questions": [
+      {
+        "type": "mcq",
+        "question": "In the lesson above, which of the following best answers: \"The Water Cycle The water cycle is the continuous movement of water on, above,...\"?",
+        "options": [
+          "Water",
+          "Movement",
+          "Continuous",
+          "Cycle"
+        ],
+        "correct": 0,
+        "hint": "Look around the part where \"water\" is mentioned in the lesson.",
+        "answer": "Water — (extracted from the lesson content)."
+      },
+      {
+        "type": "true_false",
+        "question": "Solar energy drives the cycle by heating water in the oceans, which evaporates into water vapor.",
+        "correct": true,
+        "hint": "Try to remember what the lesson said about this part.",
+        "answer": "True — this matches the lesson."
+      },
+      {
+        "type": "short_answer",
+        "question": "Briefly explain or name: \"This water vapor rises into the atmosphere, where it cools and conden...\"",
+        "hint": "A short answer referring to \"earth\" would help.",
+        "answer": "One good short answer: Earth (from the lesson)."
+      },
+      {
+        "type": "mcq",
+        "question": "In the lesson above, which of the following best answers: \"When the water droplets in clouds become too heavy, they fall to Earth as preci...\"?",
+        "options": [
+          "Continuous",
+          "Water",
+          "Earth",
+          "Cycle"
+        ],
+        "correct": 2,
+        "hint": "Look around the part where \"earth\" is mentioned in the lesson.",
+        "answer": "Earth — (extracted from the lesson content)."
+      },
+      {
+        "type": "true_false",
+        "question": "It is not true that The fallen water then flows over the ground as surface runoff, eventually returning to the oceans, or it seeps into the...",
+        "correct": false,
+        "hint": "Try to remember what the lesson said about this part.",
+        "answer": "False — this was changed slightly from the lesson."
+      }
+    ]
+  },
+  {
+    "id": 1758317454068,
+    "created_at": "2025-09-19T21:30:54.068Z",
+    "content": "The Water Cycle\nThe water cycle is the continuous movement of water on, above, and below the surface of the Earth. Solar energy drives the cycle by heating water in the oceans, which evaporates into water vapor. This water vapor rises into the atmosphere, where it cools and condenses around particles to form clouds. When the water droplets in clouds become too heavy, they fall to Earth as precipitation in the form of rain, snow, sleet, or hail. The fallen water then flows over the ground as surface runoff, eventually returning to the oceans, or it seeps into the ground to become groundwater. Some groundwater is stored in aquifers, while some flows back to the surface through springs or is drawn up by plants and returned to the atmosphere through transpiration. The water cycle is essential for all life on Earth, as it distributes fresh water around the planet and helps regulate temperature and climate patterns.",
+    "simplified": "<h3>The Water Cycle</h3><p>The Water Cycle The water cycle is the continuous movement of water on, above, and below the surface of the Earth.</p><p>Some groundwater is stored in aquifers, while some flows back to the surface through springs or is drawn up by plants and returned to the atmosphere through transpiration.</p><p>The water cycle is essential for all life on Earth, as it distributes fresh water around the planet and helps regulate temperature and climate patterns.</p><p>The fallen water then flows over the ground as surface runoff, eventually returning to the oceans, or it seeps into the ground to become groundwater.</p><p>When the water droplets in clouds become too heavy, they fall to Earth as precipitation in the form of rain, snow, sleet, or hail.</p><p>This water vapor rises into the atmosphere, where it cools and condenses around particles to form clouds.</p><p><strong>Summary:</strong> This is a simplified version to help learning. Try the practice questions below!</p>",
+    "questions": [
+      {
+        "type": "mcq",
+        "question": "In the lesson above, which of the following best answers: \"The Water Cycle The water cycle is the continuous movement of water on, above,...\"?",
+        "options": [
+          "Cycle",
+          "Movement",
+          "Continuous",
+          "Water"
+        ],
+        "correct": 3,
+        "hint": "Look around the part where \"water\" is mentioned in the lesson.",
+        "answer": "Water — (extracted from the lesson content)."
+      },
+      {
+        "type": "true_false",
+        "question": "It is not true that Solar energy drives the cycle by heating water in the oceans, which evaporates into water vapor.",
+        "correct": false,
+        "hint": "Try to remember what the lesson said about this part.",
+        "answer": "False — this was changed slightly from the lesson."
+      },
+      {
+        "type": "short_answer",
+        "question": "Briefly explain or name: \"This water vapor rises into the atmosphere, where it cools and conden...\"",
+        "hint": "A short answer referring to \"earth\" would help.",
+        "answer": "One good short answer: Earth (from the lesson)."
+      },
+      {
+        "type": "mcq",
+        "question": "In the lesson above, which of the following best answers: \"When the water droplets in clouds become too heavy, they fall to Earth as preci...\"?",
+        "options": [
+          "Continuous",
+          "Cycle",
+          "Water",
+          "Earth"
+        ],
+        "correct": 3,
+        "hint": "Look around the part where \"earth\" is mentioned in the lesson.",
+        "answer": "Earth — (extracted from the lesson content)."
+      },
+      {
+        "type": "true_false",
+        "question": "The fallen water then flows over the ground as surface runoff, eventually returning to the oceans, or it seeps into the...",
+        "correct": true,
+        "hint": "Try to remember what the lesson said about this part.",
+        "answer": "True — this matches the lesson."
+      },
+      {
+        "type": "short_answer",
+        "question": "Briefly explain or name: \"Some groundwater is stored in aquifers, while some flows back to the...\"",
+        "hint": "A short answer referring to \"vapor\" would help.",
+        "answer": "One good short answer: Vapor (from the lesson)."
+      },
+      {
+        "type": "mcq",
+        "question": "In the lesson above, which of the following best answers: \"The water cycle is essential for all life on Earth, as it distributes fresh wat...\"?",
+        "options": [
+          "Cycle",
+          "Vapor",
+          "Continuous",
+          "Water"
+        ],
+        "correct": 1,
+        "hint": "Look around the part where \"vapor\" is mentioned in the lesson.",
+        "answer": "Vapor — (extracted from the lesson content)."
+      },
+      {
+        "type": "true_false",
+        "question": "The Water Cycle The water cycle is the continuous movement of water on, above, and below the surface of the Earth.",
+        "correct": true,
+        "hint": "Try to remember what the lesson said about this part.",
+        "answer": "True — this matches the lesson."
+      },
+      {
+        "type": "short_answer",
+        "question": "Briefly explain or name: \"Solar energy drives the cycle by heating water in the oceans, which e...\"",
+        "hint": "A short answer referring to \"form\" would help.",
+        "answer": "One good short answer: Form (from the lesson)."
+      },
+      {
+        "type": "mcq",
+        "question": "In the lesson above, which of the following best answers: \"This water vapor rises into the atmosphere, where it cools and condenses around...\"?",
+        "options": [
+          "Cycle",
+          "Form",
+          "Water",
+          "Continuous"
+        ],
+        "correct": 1,
+        "hint": "Look around the part where \"form\" is mentioned in the lesson.",
+        "answer": "Form — (extracted from the lesson content)."
+      }
+    ]
+  },
+  {
+    "id": 1758317772289,
+    "created_at": "2025-09-19T21:36:12.289Z",
+    "content": "The Water Cycle\nThe water cycle is the continuous movement of water on, above, and below the surface of the Earth. Solar energy drives the cycle by heating water in the oceans, which evaporates into water vapor. This water vapor rises into the atmosphere, where it cools and condenses around particles to form clouds. When the water droplets in clouds become too heavy, they fall to Earth as precipitation in the form of rain, snow, sleet, or hail. The fallen water then flows over the ground as surface runoff, eventually returning to the oceans, or it seeps into the ground to become groundwater. Some groundwater is stored in aquifers, while some flows back to the surface through springs or is drawn up by plants and returned to the atmosphere through transpiration. The water cycle is essential for all life on Earth, as it distributes fresh water around the planet and helps regulate temperature and climate patterns.",
+    "simplified": "<h3>The Water Cycle</h3><p>The Water Cycle The water cycle is the continuous movement of water on, above, and below the surface of the Earth.</p><p>Some groundwater is stored in aquifers, while some flows back to the surface through springs or is drawn up by plants and returned to the atmosphere through transpiration.</p><p>The water cycle is essential for all life on Earth, as it distributes fresh water around the planet and helps regulate temperature and climate patterns.</p><p>The fallen water then flows over the ground as surface runoff, eventually returning to the oceans, or it seeps into the ground to become groundwater.</p><p>When the water droplets in clouds become too heavy, they fall to Earth as precipitation in the form of rain, snow, sleet, or hail.</p><p>This water vapor rises into the atmosphere, where it cools and condenses around particles to form clouds.</p><p><strong>Summary:</strong> This is a simplified version to help learning. Try the practice questions below!</p>",
+    "questions": [
+      {
+        "type": "mcq",
+        "question": "In the lesson above, which of the following best answers: \"The Water Cycle The water cycle is the continuous movement of water on, above,...\"?",
+        "options": [
+          "Movement",
+          "Cycle",
+          "Water",
+          "Continuous"
+        ],
+        "correct": 2,
+        "hint": "Look around the part where \"water\" is mentioned in the lesson.",
+        "answer": "Water — (extracted from the lesson content)."
+      },
+      {
+        "type": "true_false",
+        "question": "Solar energy drives the cycle by heating water in the oceans, which evaporates into water vapor.",
+        "correct": true,
+        "hint": "Try to remember what the lesson said about this part.",
+        "answer": "True — this matches the lesson."
+      },
+      {
+        "type": "short_answer",
+        "question": "Briefly explain or name: \"This water vapor rises into the atmosphere, where it cools and conden...\"",
+        "hint": "A short answer referring to \"earth\" would help.",
+        "answer": "One good short answer: Earth (from the lesson)."
+      },
+      {
+        "type": "mcq",
+        "question": "In the lesson above, which of the following best answers: \"When the water droplets in clouds become too heavy, they fall to Earth as preci...\"?",
+        "options": [
+          "Earth",
+          "Continuous",
+          "Cycle",
+          "Water"
+        ],
+        "correct": 0,
+        "hint": "Look around the part where \"earth\" is mentioned in the lesson.",
+        "answer": "Earth — (extracted from the lesson content)."
+      },
+      {
+        "type": "true_false",
+        "question": "It is not true that The fallen water then flows over the ground as surface runoff, eventually returning to the oceans, or it seeps into the...",
+        "correct": false,
+        "hint": "Try to remember what the lesson said about this part.",
+        "answer": "False — this was changed slightly from the lesson."
+      },
+      {
+        "type": "short_answer",
+        "question": "Briefly explain or name: \"Some groundwater is stored in aquifers, while some flows back to the...\"",
+        "hint": "A short answer referring to \"vapor\" would help.",
+        "answer": "One good short answer: Vapor (from the lesson)."
+      },
+      {
+        "type": "mcq",
+        "question": "In the lesson above, which of the following best answers: \"The water cycle is essential for all life on Earth, as it distributes fresh wat...\"?",
+        "options": [
+          "Vapor",
+          "Water",
+          "Continuous",
+          "Cycle"
+        ],
+        "correct": 0,
+        "hint": "Look around the part where \"vapor\" is mentioned in the lesson.",
+        "answer": "Vapor — (extracted from the lesson content)."
+      },
+      {
+        "type": "true_false",
+        "question": "The Water Cycle The water cycle is the continuous movement of water on, above, and below the surface of the Earth.",
+        "correct": true,
+        "hint": "Try to remember what the lesson said about this part.",
+        "answer": "True — this matches the lesson."
+      }
+    ]
+  }
+]
